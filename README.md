@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lolistone (Lorenzo Martinelli)
 - 👀 I’m interested in maths and computing.
-- 🌱 I’m currently learning data science (1st year, University of Buenos Aires)
+- 🌱 I’m currently studying data science at the University of Buenos Aires (1st year)
 - 📫 How to reach me lolocrsn@hotmail.com
 
 <!---
