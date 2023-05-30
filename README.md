@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lolistone (Lorenzo Martinelli)
 - 👀 I’m interested in maths and computing.
 - 🌱 I’m currently studying mathematics at the University of Buenos Aires, Faculty of Exact and Natural Sciences.
-- 📫 How to reach me lolocrsn@hotmail.com
+- 📫 How to reach me martinelli.lorenzo12@gmail.com
 
 <!---
 Lolistone/Lolistone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
