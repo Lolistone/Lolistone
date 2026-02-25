@@ -1,4 +1,4 @@
-- Hi, I’m Lorenzo Martinelli
+- Hi, I’m Lorenzo Martinelli.
 - I’m currently studying applied mathematics and data science @ University of Buenos Aires.
 - 📫 How to reach me martinelli.lorenzo12@gmail.com
 
